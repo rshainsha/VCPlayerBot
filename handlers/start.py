@@ -27,8 +27,8 @@ Use the buttons below to know more about me.
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Group", url="https://t.me/TeLeTiPsOfficialOnTopicChat"
-                    ),
+                        "👥 Group", url="
+                    ),https://t.me/tamilmovieshdri
                     InlineKeyboardButton(
                         "💾 Source code", url="https://github.com/sangramghangale/VCPlayerBot/edit/master/handlers/start.py"
                     )
